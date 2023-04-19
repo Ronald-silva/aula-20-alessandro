@@ -1,0 +1,23 @@
+{
+  "bebidas": [
+    {
+      "id": 2,
+      "nome": "vodka slova",
+      "quantidade": 12
+    },
+    {
+      "nome": "vinho sao braz",
+      "quantidade": 12,
+      "id": 3
+    }
+  ],
+
+  "contatos": [
+    {
+      "id": 1,
+      "email":"ronaldsilva@outloock.com",
+      "nome": "ronald",
+      "telefone": "85 9 3005-1527"
+    }
+  ]
+}
